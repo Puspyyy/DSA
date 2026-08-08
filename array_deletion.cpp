@@ -20,7 +20,7 @@ int main() {
         }
         n--;
     }
-    cout<<"arrau after deeltion";
+    cout<<"array after deletion";
     for(i = 0; i<n ; i++){
         cout<<arr[i]<<" ";
 
